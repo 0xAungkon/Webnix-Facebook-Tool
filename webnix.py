@@ -90,5 +90,5 @@ for import_line in import_data:
 
         
     print(CRED +'Account Checked '+str(c)+'/'+str(len(import_data))+', Remains:'+str(len(import_data)-c)+ CEND)
-     time.sleep(2)
+    time.sleep(2)
     c+=1
