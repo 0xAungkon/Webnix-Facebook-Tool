@@ -1,4 +1,5 @@
 import requests
+import time
 from bs4 import BeautifulSoup
 CRED = '\033[92m'
 CEND = '\033[0m'
